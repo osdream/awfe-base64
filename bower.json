@@ -1,0 +1,21 @@
+{
+  "name": "awfe-base64",
+  "version": "0.0.1",
+  "authors": [
+    "songao <songao@wifi.com>"
+  ],
+  "description": "base64 for angular.js support chinese",
+  "main": "base64.js",
+  "keywords": [
+    "base64"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/osdream/awfe-base64",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
